@@ -1,0 +1,5 @@
+id,name_key,type,mp_cost,target,effect_id,max_level,point_per_level
+sk_sword,sk_sword_name,Physical,0,Single,eff_phys_sword,10,1
+sk_ice,sk_ice_name,Magic,8,Single,eff_ice,10,1
+sk_freeze,sk_freeze_name,Magic,12,All,eff_freeze,10,1
+sk_dimension,sk_dimension_name,Magic,1,Self,eff_dimension,10,1

@@ -1,0 +1,3 @@
+id,name_key,base_hp,base_mp,str,vit,dex,agi,int,mag,growth_id,innate_skills,portrait,battle_icon
+chr_aikawa,chr_aikawa_name,51,72,1.11,1.03,1.01,2.02,4.00,2.00,growth_aikawa,"sk_sword,sk_ice,sk_freeze,sk_dimension",Art/Characters/aikawa_portrait,Art/Characters/aikawa_icon
+chr_tia,chr_tia_name,120,40,3.50,2.80,2.20,2.50,1.50,1.00,growth_tia,sk_sword,Art/Characters/tia_portrait,Art/Characters/tia_icon

@@ -1,0 +1,6 @@
+pool_id,enemy_id,weight
+enc_floor01,en_blackfly,40
+enc_floor01,en_sawbeetle,30
+enc_floor01,en_bigclam,30
+enc_floor02,en_blackfly,20
+enc_floor02,en_sawbeetle,50

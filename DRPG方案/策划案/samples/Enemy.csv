@@ -1,0 +1,6 @@
+id,name_key,rank,hp,atk,def,agi,weak_elem,resist_elem,exp,drop_id,ai_id,battle_image
+en_blackfly,en_blackfly_name,2,35,8,5,14,ice,fire,25,drop_blackfly,ai_aggressive,Art/Monsters/blackfly
+en_sawbeetle,en_sawbeetle_name,3,80,15,18,6,fire,ice,60,drop_sawbeetle,ai_charger,Art/Monsters/sawbeetle
+en_bigclam,en_bigclam_name,1,40,5,8,2,ice,none,15,drop_bigclam,ai_idle,Art/Monsters/bigclam
+en_deepwolf,en_deepwolf_name,3,150,25,12,12,ice,none,120,drop_deepwolf,ai_boss_wolf,Art/Monsters/deepwolf
+en_tiida,en_tiida_name,99,5000,80,60,20,dark,fire,0,drop_none,ai_tiida,Art/Monsters/tiida

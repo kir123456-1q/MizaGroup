@@ -1,0 +1,6 @@
+id,name_key,item_type,equip_slot,atk,def,use_effect_id,poison_cure_tag,buy_price,sell_price,stack_max
+it_meat,it_meat_name,Consumable,,0,0,eff_heal_small,,5,2,99
+it_antidote_bee,it_antidote_bee_name,Consumable,,0,0,eff_cure_poison_bee,bee,30,10,20
+it_iron_sword,it_iron_sword_name,Equip,Weapon,5,0,,,80,40,1
+it_oil,it_oil_name,Consumable,,0,0,eff_oil_splash,,15,5,10
+it_magicstone_10,it_magicstone_10_name,Material,,0,0,,,0,1,99

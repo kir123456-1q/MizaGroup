@@ -1,0 +1,4 @@
+id,floor_number,map_id,theme,is_safe_zone,encounter_pool_id,boss_id,bgm_id
+df_01,1,map_01_01,stone,false,enc_floor01,,bgm_dungeon_01
+df_02,2,map_02_01,stone,true,enc_floor02,,bgm_dungeon_01
+df_05,5,map_05_01,stone,true,enc_floor05,en_tiida,bgm_dungeon_01
